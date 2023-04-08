@@ -1,6 +1,6 @@
 <template>
     <div class="w-full">
-        <div class="max-w-[1180px] mx-auto bg-[#F6F6F6] px-[100px] pt-[70px] pb-[80px]">
+        <div class="max-w-[1180px] mx-auto mt-[100px] mb-[120px] bg-[#F6F6F6] px-[100px] pt-[70px] pb-[80px]">
             <div class="max-w-[580px] mx-auto text-[48px] font-bold text-center mb-[80px]">
                 เลือกแผนที่เหมาะสมกับคุณที่สุด
             </div>
@@ -24,6 +24,10 @@
                         </div>
                     </div>
                 </template>
+            </div>
+            <div class="flex justify-end gap-x-[30px] mt-6 text-white text-[14px] font-medium">
+                <button class="w-[180px] bg-[#5865F2] rounded-[40px] py-[7px] px-4">สมัครสมาชิก Basic</button>
+                <button class="w-[180px] bg-[#5865F2] rounded-[40px] py-[7px] px-4">สมัครสมาชิก Nitro</button>
             </div>
         </div>
     </div>
