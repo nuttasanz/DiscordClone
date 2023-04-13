@@ -1,6 +1,9 @@
 <template>
-    <NitroHeader></NitroHeader>
-    <NitroContent></NitroContent>
-    <NitroPrivilege></NitroPrivilege>
-    <NitroPlan></NitroPlan>
+    <div>
+        <NitroHeader></NitroHeader>
+        <NitroContent></NitroContent>
+        <NitroPrivilege></NitroPrivilege>
+        <NitroPlan></NitroPlan>
+        <NitroFaq></NitroFaq>
+    </div>
 </template>

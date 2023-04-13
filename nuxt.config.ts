@@ -2,6 +2,7 @@
 export default defineNuxtConfig({
     css: [
       '~/assets/css/tailwind.css',
+      '~/assets/css/animation.css',
       '@fortawesome/fontawesome-svg-core/styles.css',
     ],
     postcss: {
