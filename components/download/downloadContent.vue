@@ -11,7 +11,7 @@
           >
             ดาวน์โหลด
           </div>
-          <img src="@\static\images\download\1.png" class="relative mt-14" />
+          <img src="\images\download\1.png" class="relative mt-14" />
         </div>
 
         <div
@@ -47,7 +47,7 @@
               </div>
             </div>
           </div>
-          <img src="@\static\images\download\2.png" class="relative mt-14" />
+          <img src="\images\download\2.png" class="relative mt-14" />
         </div>
 
         <div
@@ -107,7 +107,7 @@
             ดาวน์โหลด
           </div>
           <img
-            src="@\static\images\download\5.png"
+            src="\images\download\5.png"
             class="relative mt-14 objec"
           />
         </div>
@@ -121,7 +121,7 @@
           >
             <div>ดาวน์โหลด</div>
           </div>
-          <img src="@\static\images\download\3.png" class="relative mt-14" />
+          <img src="\images\download\3.png" class="relative mt-14" />
         </div>
       </div>
     </div>

@@ -63,7 +63,7 @@
         <div class="px-[40px]">
             <div class="border-t-[1px] border-t-[#5865F2] mt-[40px] mb-[32px]"></div>
             <div class="flex justify-between">
-                <div><img src="@/static/images/logo/discordLogo1.png"></div>
+                <div><img src="/images/logo/discordLogo1.png"></div>
                 <button class="bg-[#5865F2] text-white text-[14px] rounded-[40px] px-[16px] py-[7px]">เปิด Discord</button>
             </div>
         </div>

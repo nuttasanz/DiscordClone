@@ -6,7 +6,7 @@
                 <div class="text-[20px]">เสียงและวิดีโอที่ส่งถึงกันอย่างรวดเร็วเหมือนคุอยู่ในห้องเดียวกัน โบกมือสวัสดีผ่านวิดีโอ ดูเพื่อนสตรีมเกม หรือรวมกลุ่มกันวาดรูปด้วยการแบ่งปันหน้าจอ</div>
             </div>
             <div class="w-full mt-4">
-                <img src="@\static\images\index\3.png" class="w-full object-cover">
+                <img src="\images\index\3.png" class="w-full object-cover">
             </div>
         </div>
         

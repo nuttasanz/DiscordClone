@@ -2,7 +2,7 @@
     <div class="w-full absolute z-[9999]">
     <div class="max-w-[1260px] mx-auto px-10 relative text-white">
         <div class="h-[80px] flex justify-between items-center">
-            <div class="w-[124px] h-[39px]"><a href="/"><img src="@/static/images/logo/discordLogo1.png" class="w-full h-full pt-[5px]"></a></div>
+            <div class="w-[124px] h-[39px]"><a href="/"><img src="/images/logo/discordLogo1.png" class="w-full h-full pt-[5px]"></a></div>
             <div class="flex text-[16px]">
                 <a href="download" class="m-[10px] p-[10px] hover:cursor-pointer hover:underline">Download</a>
                 <a href="nitro" class="m-[10px] p-[10px] hover:cursor-ponter hover:underline">Nitro</a>

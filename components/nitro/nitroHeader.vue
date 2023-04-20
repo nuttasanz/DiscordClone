@@ -2,7 +2,7 @@
     <div class="w-full">
         <div class="relative">
             <video class="relative" muted loop autoplay>
-                <source src="@/static/media/NitroVideo.webm" type="video/webm">
+                <source src="/media/NitroVideo.webm" type="video/webm">
             </video>
             <div class="absolute z-50 top-[200px] w-full">
                 <div class="max-w-[1120px] mx-auto">

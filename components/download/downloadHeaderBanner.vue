@@ -23,7 +23,7 @@
                         <div class="text-white">Windows 7 หรือสูงกว่า</div>
                     </div>
                 </div>
-                <img src="@\static\images\download\4.png">
+                <img src="\images\download\4.png">
             </div>
         </div>
     </div>

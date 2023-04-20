@@ -59,52 +59,52 @@ export default defineComponent({
           title:
             "ไม่ว่าจะเป็นคลิปหรือรูปภาพแชร์ไปเลยด้วยไฟล์อัปโหลดที่ใหญ่ขึ้น",
           desc: "",
-          url: "/_nuxt/static/images/nitro/NitroPrevilageContent1.png",
+          url: "/images/nitro/NitroPrevilageContent1.png",
         },
         {
           title: "สตรีมแอปและเกมแบบ HD สวยสดงดงาม",
           desc: "",
-          url: "/_nuxt/static/images/nitro/NitroPrevilageContent2.png",
+          url: "/images/nitro/NitroPrevilageContent2.png",
         },
         {
           title: "ไฮป์และมีมด้วยอีโมจิแบบกำหนดเองทุกที่",
           desc: "",
-          url: "/_nuxt/static/images/nitro/NitroPrevilageContent3.png",
+          url: "/images/nitro/NitroPrevilageContent3.png",
         },
         {
           title: "ปลดล็อกสิทธิประโยชน์ให้แก่ชุมชนของคุณด้วย 2 บูสต์เซิร์ฟเวอร์",
           desc: "",
-          url: "/_nuxt/static/images/nitro/NitroPrevilageContent4.png",
+          url: "/images/nitro/NitroPrevilageContent4.png",
         },
         {
           title: "แฮงก์เอาต์ได้มากยิ่งขึ้น",
           desc: "เริ่มเกมแบบแคชวลหรือปาร์ตี้รับชมได้ทันทีด้วยกิจกรรม",
-          url: "/_nuxt/static/images/nitro/NitroPrevilageContent5.png",
+          url: "/images/nitro/NitroPrevilageContent5.png",
         },
         {
           title: "Special Stickers Access",
           desc: "ใช้สติกเกอร์แบบกำหนดเองได้ทุกที่และเข้าถึงสติกเกอร์พิเศษเฉพาะ Nitro กว่า 300 รายการ",
-          url: "/_nuxt/static/images/nitro/NitroPrevilageContent6.png",
+          url: "/images/nitro/NitroPrevilageContent6.png",
         },
         {
           title: "โปรไฟล์แบบกำหนดเอง",
           desc: "ใช้สัญลักษณ์ประจำตัว ธีมโปรไฟล์ แบนเนอร์ และข้อมูลส่วนตัวที่แตกต่างกันในแต่ละเซิร์ฟเวอร์ของคุณ",
-          url: "/_nuxt/static/images/nitro/NitroPrevilageContent7.png",
+          url: "/images/nitro/NitroPrevilageContent7.png",
         },
         {
           title: "Color Themes",
           desc: "Add your vibe to Discord with unique theme colors.",
-          url: "/_nuxt/static/images/nitro/NitroPrevilageContent8.png",
+          url: "/images/nitro/NitroPrevilageContent8.png",
         },
         {
           title: "ซูเปอร์รีแอคชั่น",
           desc: "Hype up the chat with action-packed, animated reactions.",
-          url: "/_nuxt/static/images/nitro/NitroPrevilageContent9.png",
+          url: "/images/nitro/NitroPrevilageContent9.png",
         },
         {
           title: "แบดจ์ Nitro",
           desc: "โชว์ออฟสมาชิก Nitro ของคุณด้วยแบดจ์ในโปรไฟล์",
-          url: "/_nuxt/static/images/nitro/NitroPrevilageContent10.png",
+          url: "/images/nitro/NitroPrevilageContent10.png",
         },
       ],
     };

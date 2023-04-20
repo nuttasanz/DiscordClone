@@ -1,11 +1,11 @@
 <template>
     <div class="w-full h-[626px] relative bg-[#404EED]">
         <div class="absolute">
-            <img src="@\static\images\index\8.png" class="w-full h-[626px] object-cover">
+            <img src="\images\index\8.png" class="w-full h-[626px] object-cover">
         </div>
         <div class="w-full h-full flex flex-row-reverse justify-between items-end absolute">
-            <img src="@\static\images\index\1.png" class="h-[360px]">
-            <img src="@\static\images\index\7.png" class="h-[360px]">
+            <img src="\images\index\1.png" class="h-[360px]">
+            <img src="\images\index\7.png" class="h-[360px]">
         </div>
         <div class="max-w-[1260px] mx-auto py-[200px] px-[40px] relative z-50">
             <div class="max-w-[780px] mx-auto text-white text-center">

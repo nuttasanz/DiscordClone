@@ -7,6 +7,6 @@
     }
 }
 
-.fadeSlide-enter-active {
+.fadeSlide{
     animation: fadeSlideIn 1s;
 }
